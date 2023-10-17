@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Abel', 'Helvetica', 'Arial', 'sans-serif';
 }
 
 a {
@@ -15,7 +15,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #fcbd20;
+  color: #cfa8e3;
 }
 
 h1,
@@ -40,7 +40,7 @@ section {
 }
 
 section h2 {
-  font-size: 50px;
+  font-size: 30px;
 }
 /* Navigation styles */
 #mainNav {
@@ -126,18 +126,100 @@ section h2 {
   letter-spacing: 0.5rem;
   text-transform: uppercase;
 }
-.sectionHeading {
+.sectionHeading1 {
   max-width: 100px;
   margin: 25px auto 0;
   text-align: center;
   border-bottom: 3px solid #800080;
   padding-bottom: 3px;
+  text-wrap: nowrap;
+
 }
 .card {
   padding-top: 5rem;;
 }
 
 /* about/skills */
+
+.about {
+  background-color: #800080;
+  
+}
+.sectionHeading2 {
+  max-width: 100px;
+  margin: 0 auto 20px;
+  text-align: center;
+  border-bottom: 3px solid #cfa8e3;
+  padding-bottom: 3px;
+  text-wrap: nowrap;
+  color: white;
+  padding-top: 0.05rem;
+}
+.row-valueProp {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.sideAccent {
+  background: #cfa8e3;
+  width: 15px;
+}
+.imageContainer {
+  padding: 50px;
+}
+.imageContainer img {
+  width: 100%;
+}
+.about-text {
+  text-align: center;
+  margin-left: 15px;
+  color: white;
+  padding-top: 25px;
+}
+/* skills section */
+
+.sectionHeading3 {
+  max-width: 100px;
+  margin: 50px 160px 5px;
+  text-align: center;
+  border-bottom: 3px solid #cfa8e3;
+  padding-bottom: 3px;
+  text-wrap: nowrap;
+  color: white;
+  padding-top: 0.05rem;
+}
+.bar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  width:50%;
+  text-align: center;
+}
+
+.progress {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: none;  
+  margin: 25px;
+}
+
+.progress-bar {
+  background-color: #cfa8e3;
+  box-shadow: none;
+}
+
+.text-right {
+  text-align: right;
+  color: black;
+  margin-right: 10px;
+}
+.text-left {
+  font-size: 15px;
+}
+
+
+
+
+
 
 
 
