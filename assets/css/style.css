@@ -239,8 +239,24 @@ section h2 {
   width: 3rem;
 }
 
+.text-primary {
+  color:#800080;
+}
+
 
 /* footer */
+
+footer {
+  padding: 25px 0;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.3);
+  background-color: #222222;
+}
+
+footer p {
+  font-size: 12px;
+  margin: 0;
+}
 
 
 
