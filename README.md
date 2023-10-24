@@ -14,6 +14,8 @@ The navigation bar provides links to the different sections of the porfolio page
     ![alt text](/assets/images/screenshot.png)
     ```
 
+Link to deployed application: https://sunsalio.github.io/c3-Bootstrap-Portfolio/
+
 ## Credits
 
 Avatar: https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Transparent&clotheColor=Pink&clotheType=Hoodie&eyeType=Default&eyebrowType=Default&hatColor=White&mouthType=Twinkle&skinColor=DarkBrown&topType=Hijab
