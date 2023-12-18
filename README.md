@@ -10,9 +10,9 @@ The navigation bar provides links to the different sections of the porfolio page
 
 
 
-    ```md
-    ![alt text](/assets/images/screenshot.png)
-    ```
+
+![Alt text](screenshot.png)
+    
 
 Link to deployed application: https://sunsalio.github.io/c3-Bootstrap-Portfolio/
 
