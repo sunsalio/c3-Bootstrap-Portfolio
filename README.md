@@ -11,7 +11,7 @@ The navigation bar provides links to the different sections of the porfolio page
 
 
 
-![Alt text](screenshot.png)
+![Alt text](assets/images/screenshot.png)
     
 
 Link to deployed application: https://sunsalio.github.io/c3-Bootstrap-Portfolio/
